@@ -32,10 +32,6 @@ Before you begin, ensure you have the following installed:
 - Git (optional)
 
 
-## Contributing
-
-We welcome contributions. Feel free to fork the repository, make your changes, and submit a pull request.
-
 
 ## Acknowledgments
 
